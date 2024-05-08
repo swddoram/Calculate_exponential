@@ -1,0 +1,8 @@
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\bin\Debug\Math.exe.config
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\bin\Debug\Math.exe
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\bin\Debug\Math.pdb
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\obj\Debug\Math.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\obj\Debug\Math.exe
+C:\Users\ddora\OneDrive\문서\Visual Studio 2022\Projects\Math\obj\Debug\Math.pdb
